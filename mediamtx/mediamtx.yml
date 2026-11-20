@@ -878,6 +878,5 @@ pathDefaults:
 # for example "~^prefix" will match all paths that start with "prefix".
 paths:
   bus_cam:
-    source: rtsp://192.168.0.102:8080/h264.sdp
-    rtspTransport: tcp
+    source: rtsp://10.107.17.30:8080/h264_ulaw.sdp
     sourceOnDemand: yes

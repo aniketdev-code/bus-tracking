@@ -2,3 +2,7 @@ node_modules/
 mediamtx/*.exe
 mediamtx/*.crt
 mediamtx/*.key
+.env
+.env.*
+dist/
+
